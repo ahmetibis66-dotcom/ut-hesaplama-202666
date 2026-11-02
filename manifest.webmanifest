@@ -1,0 +1,14 @@
+{
+  "name": "UT Hesaplama",
+  "short_name": "UT",
+  "description": "Ultrasonik saha hesaplayıcı",
+  "start_url": "./UT_Hesaplama.html",
+  "display": "standalone",
+  "background_color": "#040a09",
+  "theme_color": "#08110f",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
